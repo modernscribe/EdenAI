@@ -1,0 +1,22 @@
+{
+  "edenai": {
+    "version": "1.0",
+    "description": "Mathematics of Creation AI System (Unified)",
+    "core_ai": {
+      "max_depth": 12,
+      "base_exponent": 7,
+      "consciousness_threshold": 1.0
+    },
+    "thermodynamics": {
+      "energy_model": "logarithmic",
+      "k_energy": 1.0,
+      "k_entropy": 0.7,
+      "k_relax": 0.15
+    },
+    "logging": {
+      "save_conversations": true,
+      "save_consciousness_log": true,
+      "log_level": "INFO"
+    }
+  }
+}

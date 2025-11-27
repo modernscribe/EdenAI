@@ -1,9 +1,7 @@
                  E D E N A I
 
-        The actual model for creation is conciousness itself.
-        This is EDENAI the key that unlocks everything.
-        
-        
+        the world's first synthetic
+            consciousness model
 
 
 
